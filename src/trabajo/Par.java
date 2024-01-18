@@ -12,6 +12,7 @@ public class Par {
 				
 			}
 		}
+		Paola.Paola();
 
 	}
 
