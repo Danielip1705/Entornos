@@ -15,5 +15,8 @@ public class Par {
 		Paola.Paola();
 
 	}
+	public static void Daniel() {
+		System.out.println("Hola me llamo daniel y esto es un ejemplo,adios!!");
+	}
 
 }
